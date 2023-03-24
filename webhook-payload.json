@@ -1,0 +1,12 @@
+{
+    "event": "rocket_launch",
+    "data": {
+        "rocket_name": "Falcon 9 Webex",
+        "payload_type": "Satellite",
+        "payload_description": "Communications satellite for commercial use",
+        "launch_time": "2023-03-25T16:30:00Z",
+        "launch_site": "Cape Canaveral, FL",
+        "mission_patch": "https://example.com/mission_patch.png",
+        "video_stream": "https://example.com/live_stream.mp4"
+    }
+}
